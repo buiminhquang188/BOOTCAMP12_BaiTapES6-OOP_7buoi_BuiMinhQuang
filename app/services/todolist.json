@@ -1,0 +1,22 @@
+[
+    {
+        "toDoType": 1,
+        "content": "Làm việc nhà",
+        "id": "1"
+    },
+    {
+        "toDoType": 2,
+        "content": "Nấu cơm",
+        "id": "2"
+    },
+    {
+        "toDoType": 2,
+        "content": "Làm bài tập",
+        "id": "3"
+    },
+    {
+        "toDoType": 1,
+        "content": "Dọn bếp",
+        "id": "4"
+    }
+]
